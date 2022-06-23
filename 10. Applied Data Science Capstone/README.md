@@ -1,12 +1,9 @@
 # Applied Data Science Capstone
-<p align="center">
-  <img src="Images/TitlePage.png" width="1200">
-</p>
+
 
 ## 📄 Summary
 This capstone project will ultimately **predict if the Space X Falcon 9 first stage will land successfully**. 
 
-The full report can be found [here](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/10.%20Applied%20Data%20Science%20Capstone/IBM%20Data%20Science%20Capstone%20Project%202022.pdf).
 
 ### Context and Business Understanding
 - SpaceX launches Falcon 9 rockets at a cost of around $62m. This is considerably cheaper than other providers (which usually cost upwards of $165m), and much of the savings are because SpaceX can land, and then re-use the first stage of the rocket. 
@@ -55,10 +52,3 @@ This project follows these steps:
 - Using machine learning to build a predictive model to help a business function more efficiently
 - Structuring and building a data-findings report
 
-## 🏆 Certificates 
-To verify the certificates, click the images to follow the links.
-
-<p align="middle">
-  <a href="https://coursera.org/share/3fce21c388d0776e46ad4aa6392eea63"><img src="https://user-images.githubusercontent.com/84391594/161432000-ba6916f0-6f5e-49ab-9ff3-fae4f6f18596.png" height="420"></a>
-  <a href="https://www.credly.com/badges/26a24b18-4165-4c7e-983c-e5273be166a9/public_url"><img src="https://user-images.githubusercontent.com/84391594/161431807-63db38f1-2203-4383-aa6e-ad8b6e42ee55.png" height="420"></a>
-</p>
